@@ -2,5 +2,5 @@
 
 Contains the programs for the blogs I've written. 
 
-## Medium : 
-      https://medium.com/@lohithmunakala
+Click [here](https://medium.com/@lohithmunakala) to view my Medium Articles 
+      
